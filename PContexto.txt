@@ -1,0 +1,17 @@
+Turf	Dirt	Sprint	Mile	Medium	Long	End Closer	Late Surger	Pace Chaser	Front Runner	Speed Bonus	Stamina Bonus	Power Bonus	Guts Bonus	Wit Bonus	
+
+1	0	0	0	1	1	0	1	1	0	0	1	0	0	1	
+1	0	0	1	1	0	0	0	0	1	1	0	0	1	0	
+1	0	0	1	1	0	0	0	1	1	1	0	0	1	0	
+1	0	0	1	1	0	0	1	1	0	1	0	0	0	0	
+1	0	0	0	1	1	1	1	1	0	0	1	1	0	0	
+1	0	0	0	1	1	0	0	1	0	0	1	0	0	1	
+1	0	0	0	1	1	0	0	1	0	1	1	0	1	0	
+1	0	0	0	1	1	0	1	1	0	0	1	0	1	0	
+1	0	0	0	1	1	0	1	1	0	0	0	0	1	1	
+1	0	0	1	1	1	0	1	1	0	1	1	0	0	0	
+1	0	0	0	1	1	0	1	1	0	0	0	1	0	1	
+1	0	1	1	0	0	0	0	1	1	0	0	1	1	0	
+1	0	0	0	1	1	1	1	1	0	0	1	1	0	0	
+0	1	1	1	0	0	1	1	0	0	0	0	1	1	0	
+1	1	0	1	1	0	0	1	1	0	1	0	1	0	0	
